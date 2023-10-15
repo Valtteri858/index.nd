@@ -76,6 +76,15 @@ Lists
 * Chrysanthemum (__Anthemideae Chrysanthemum__)
 * Dahlia (__Coreopsideae Dahlia__)
 
+  * Calculus
+ * A professor
+ * Has no hair
+ * Often wears green
+* Castafiore
+ * An opera singer
+ * Has white hair
+ * Is possibly mentally unwell
+
 1. Cut the cheese
 
   Make sure that the cheese is cut into little triangles.
